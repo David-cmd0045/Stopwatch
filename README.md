@@ -31,7 +31,6 @@ A simple and accurate stopwatch app for tracking elapsed time.
 
 1. Open `index.html` in your web browser.
 2. Click **Start** to begin timing.
-3. Click **Lap** to record a lap time.
 4. Click **Stop** to pause, and **Reset** to clear.
 
 ## 📄 License
@@ -41,4 +40,5 @@ This project is open source and free to use.
 ## 🙏 Credits
 
 Created by Mark Dave, December 2025.
+
 
