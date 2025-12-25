@@ -6,7 +6,6 @@ A simple and accurate stopwatch app for tracking elapsed time.
 
 - **Start/Stop**: Easily start and stop the timer
 - **Reset**: Reset the stopwatch to zero
-- **Lap Functionality**: Record lap times
 - **Responsive Design**: Works on desktop and mobile
 
 ## 🛠️ Technologies Used
@@ -42,3 +41,4 @@ This project is open source and free to use.
 ## 🙏 Credits
 
 Created by Mark Dave, December 2025.
+
